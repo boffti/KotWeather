@@ -5,7 +5,7 @@
 [![Kotlin][kotlin-image]][kotlin-url]
 [![API][yahoo-image]][yahoo-url]
 
-![](main-screen.png) ![](weather-list.png)
+![](main-screen.jpg) ![](weather-list.jpg)
 
 ## Contributing
 
