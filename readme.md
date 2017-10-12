@@ -1,6 +1,6 @@
 # KotWeather
-[![RetroFit Version][retro-image]][retro-url]
 [![Kotlin][kotlin-image]][kotlin-url]
+[![RetroFit Version][retro-image]][retro-url]
 [![API][yahoo-image]][yahoo-url]
 
 > A super simple Android App written in Kotlin to fetch 10 day weather forcast for any City.
